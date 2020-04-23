@@ -1,0 +1,10 @@
+@tailwind base;
+
+@tailwind components;
+
+
+.react-date-picker__wrapper{
+  border: none !important;
+}
+
+@tailwind utilities;
